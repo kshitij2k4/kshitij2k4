@@ -60,7 +60,7 @@
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/kshitij-kumar-555345288/)  
 - 📂 [GitHub](https://github.com/kshitij2k4)  
-
+- 💻 [LeetCode](https://leetcode.com/u/Kshitij2k4/)
 ---
 
 <p align="center">✨ Always learning and building projects one step at a time ✨</p>
